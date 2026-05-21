@@ -3,6 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:pauseguitare/models/programme_artist.dart';
 import 'package:pauseguitare/theme/app_colors.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class ProgrammeItem extends StatefulWidget {
   final ProgrammeArtist programmeArtist;
@@ -16,6 +17,39 @@ class ProgrammeItem extends StatefulWidget {
 class _ProgrammeItemState extends State<ProgrammeItem> {
   // états
   bool _isFavorite = false;
+
+  @override
+  void initState() {
+    super.initState();
+
+    SharedPreferences.getInstance().then((prefs) {
+      List<String>? favorites = prefs.getStringList('favorites');
+
+      if (favorites!.contains(widget.programmeArtist.id)) {
+        setState(() {
+          _isFavorite = true;
+        });
+      }
+    });
+  }
+
+  // gérer les favoris
+  void _handleFavorites() async {
+    // accéder aux préférences de l'application
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+
+    // récupérer la liste des favoris
+    List<String>? favorites = prefs.getStringList('favorites');
+
+    if (!favorites!.contains(widget.programmeArtist.id)) {
+      favorites.add(widget.programmeArtist.id!);
+    } else {
+      int index = favorites.indexWhere((id) => widget.programmeArtist.id == id);
+      favorites.removeAt(index);
+    }
+
+    await prefs.setStringList('favorites', favorites);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -47,6 +81,10 @@ class _ProgrammeItemState extends State<ProgrammeItem> {
           IconButton.filled(
             onPressed: () {
               // inspect(widget.programmeArtist);
+
+              // gérer les favoris
+              _handleFavorites();
+
               // setState : modification d'un état
               setState(() {
                 _isFavorite = !_isFavorite;

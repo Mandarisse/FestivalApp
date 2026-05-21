@@ -4,13 +4,21 @@ import 'package:pauseguitare/providers/bottom_navbar_provider.dart';
 import 'package:pauseguitare/services/router_service.dart';
 import 'package:pauseguitare/theme/app_theme.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 // main : démarrer l'application
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // initialiser l'internationalisation
   initializeDateFormatting('fr_FR');
+
+  // créer l'entrée des favoris dans les préférences de l'application
+  SharedPreferences prefs = await SharedPreferences.getInstance();
+
+  if (!prefs.containsKey('favorites')) {
+    await prefs.setStringList('favorites', []);
+  }
 
   runApp(
     MultiProvider(

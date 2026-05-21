@@ -3,6 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:pauseguitare/models/programme.dart';
+import 'package:pauseguitare/models/programme_artist.dart';
 import 'package:pauseguitare/widgets/programme/programme_item.dart';
 
 class FilterForm extends StatefulWidget {
@@ -31,8 +32,38 @@ class _FilterFormState extends State<FilterForm> {
 
     // affecter les programmes au filtre des programmes à l'affichage du widget
     _filterProgramme = widget.data;
+  }
 
-    // inspect(_filterProgramme);
+  // filtrage
+  void _onFilter() {
+    // récupérer tous les programmes
+    List<Programme> filter = widget.data;
+
+    // inspect(widget.data);
+
+    // filtrer
+    if (_searchValue.isEmpty) {
+      // mise à jour de la liste des programmes
+      setState(() {
+        _filterProgramme = widget.data;
+      });
+      return;
+    }
+
+    filter.map((programme) {
+      for (var i = 0; i < programme.programmeArtists!.length; i++) {
+        if (!programme.programmeArtists![i].artistName!.toLowerCase().contains(
+          _searchValue.toLowerCase(),
+        )) {
+          programme.programmeArtists!.removeAt(i);
+        }
+      }
+    }).toList();
+
+    // mise à jour de la liste des programmes
+    setState(() {
+      _filterProgramme = filter;
+    });
   }
 
   @override
@@ -54,6 +85,8 @@ class _FilterFormState extends State<FilterForm> {
                 onChanged: (value) {
                   // inspect(value);
                   _searchValue = value;
+
+                  _onFilter();
                 },
               ),
             ),
