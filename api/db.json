@@ -1,0 +1,571 @@
+{
+	"artists": [
+		{
+			"id": "1",
+			"name": "Orelsan",
+			"slug": "orelsan",
+			"musicTypes": [ "Rap français" ],
+			"poster": "63ee109b-274b-40cb-b4de-d22b16e9f6df.jpg",
+			"description": [
+				"« On vous a préparé une toute nouvelle tournée, pleine de surprises ».",
+				"OrelSan revient sur scène avec un spectacle inédit, encore plus fort et inattendu. La tournée 2026 s’annonce déjà comme le rendez-vous immanquable.",
+				"Réservez dès maintenant vos places pour vivre l’événement incontournable de l’année !"
+			],
+			"video": "4hm7wPz0qK8",
+			"countries": [ "France" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-11",
+					"timeStart": "22:00",
+					"timeEnd": "23:30"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/31j2lhIDQoFJh6mp291Wo"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/orelsan"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/orelsan"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/4FpJcNgOvIpSBeJgRg3OfN?si=65te1RLwQoilnIntvwezlA"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@orelsan?is_from_webapp=1&sender_device=pc"
+				},
+				{
+					"name": "X",
+					"slug": "x",
+					"url": "https://x.com/Orel_san"
+				},
+				{
+					"name": "YouTube",
+					"slug": "youtube",
+					"url": "https://youtube.com/@orelsan?si=2TcO18uU5okyHFrd"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"name": "Gims",
+			"slug": "gims",
+			"musicTypes": [ "Urban Pop", "R&B" ],
+			"poster": "cf9a21ac-3904-4a3b-ab8e-0cb124b59e7f.jpg",
+			"description": [
+				"Après une tournée exceptionnelle de plus de 90 dates à guichets fermés qui a marqué 2024 et 2025, Gims sera présent sur les scènes des plus grands festivals de France en 2026.",
+				"Chaque concert sera l’occasion de (re)découvrir ses plus grands titres : Ciel, Ninao, Parisienne, Air Force Blanche, Spider, Sois pas timide, Appelle ta copine…",
+				"Réservez dès maintenant vos places pour vivre l’événement incontournable de l’année !",
+				"Avec déjà plus de 750 000 billets vendus et des dates complètes dans tout la France, Suisse, Belgique et Canada, Gims confirme une fois de plus son statut d’artiste incontournable de la scène musicale."
+			],
+			"video": "A0-JQ7r9l8E",
+			"countries": [ "France" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "21:00",
+					"timeEnd": "22:10"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/31nM4e6Ehc9z7dji0xnIj"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/gims"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/gims?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/0GOx72r5AAEKRGQFn3xqXK?si=YW5gmBdKRIysTCSpMGf0eg"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@gims_off?lang=fr"
+				},
+				{
+					"name": "X",
+					"slug": "x",
+					"url": "https://x.com/gims"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Ben Harper & The Innocent Criminals",
+			"slug": "ben-harper-&-the-innocent-criminals",
+			"musicTypes": [ "Blues", "Folk", "Rock" ],
+			"poster": "b0e30ddb-35e5-4953-8a8f-c1b9bf56885c.jpg",
+			"description": [
+				"Ben Harper est l’un des auteurs-compositeurs les plus marquants de sa génération. Artiste libre et audacieux, il navigue entre pop, blues, soul, reggae, rock et folk.",
+				"Avec 18 albums studio, plus de 16 millions de disques vendus et trois Grammy Awards, il s’est imposé sur la scène internationale. Son dernier album, Wide Open Light (2023), confirme une écriture intense et personnelle, entre profondeur, engagement et énergie."
+			],
+			"video": "56nhL4InD3g",
+			"countries": [ "Etats-Unis" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-10",
+					"timeStart": "22:30",
+					"timeEnd": "23:40"
+				}
+			],
+			"socials": [
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/benharper/?locale=fr_FR"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/benharper/"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/7sJ9LR0mCMgFlzJ6Y9xP64?si=oGjjYjLNS5m3hJX5woWlcg"
+				},
+				{
+					"name": "X",
+					"slug": "x",
+					"url": "https://x.com/BenHarper?lang=fr"
+				},
+				{
+					"name": "YouTube",
+					"slug": "youtube",
+					"url": "https://youtube.com/@benharper?si=jozNbXO-R20J8r8r"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Jean-Louis Aubert",
+			"slug": "jean-louis-aubert",
+			"musicTypes": [ "Variété Française" ],
+			"poster": "ff15bdd5-bcb8-4e63-98f7-af44fdf7ec07.jpg",
+			"description": [
+				"Après le succès du PAFINITOUR en 2025, marqué par plus de 60 concerts à guichets fermés en France, Suisse et Belgique, Jean-Louis Aubert prolonge l’aventure avec une tournée des festivals à l’été 2026.",
+				"L’occasion de retrouver ses titres iconiques et de découvrir l’univers de son dernier album PAFINI. Sur scène, l’artiste déploie toute sa générosité et son énergie dans un spectacle moderne, intense et toujours profondément vivant."
+			],
+			"video": "tcQbhFRw_gg",
+			"countries": [ "France" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-10",
+					"timeStart": "20:30",
+					"timeEnd": "22:00"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/31Aj3R6kNtvvyuxF85uc3"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/jeanlouisaubertofficiel"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/jeanlouisaubert/?hl=fr"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/1NCrHXp9R3ogv8ezWWHFNs?si=DxSzF25RS2-ujHlGnuIKCg"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@jeanlouisaubertofficiel?is_from_webapp=1&sender_device=pc"
+				},
+				{
+					"name": "X",
+					"slug": "x",
+					"url": "https://x.com/Aubertofficiel"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"name": "Helena",
+			"slug": "helena",
+			"musicTypes": [ "Pop" ],
+			"poster": "703f50ee-4c17-4e86-ac53-4d0d440607df.jpg",
+			"description": [
+				"Après l’annonce évènement de ses premières dates de concert en solo, pour la plupart sold-out en quelques minutes seulement et une première tournée en Zénith & Arena, Helena poursuit sur sa lancée et prolonge le plaisir en festivals dès le printemps 2026.",
+				"Son premier album “Hele” est à son image : aussi touchant qu’authentique. Déjà certifié platine, “Hele” est un plongeon tête baissée dans les doutes et les joies qui habitent une fille de 22 ans, entre la célébrité soudaine, la musique, les peines de cœur et d’amitié….",
+				"”Hélé 2”, réédition parue le 10 octobre 2025, tire le fil et confirme les talents de composition et la sincérité des textes d’Héléna.",
+				"Avec sa voix douce et puissante, son énergie solaire et sa personnalité attachante, la révélation musicale Helena que ses compatriotes Belges (et pas que) surnomment la « Reine de Belgique » vous invite aujourd’hui à plonger dans son univers musical, teinté de pop électrique et acoustique, où chaque note résonne avec émotion.",
+				"Retrouvez Helena en tournée des Zénith et Arena toute la France, Belgique et Luxembourg et festivals dès le printemps 2026."
+			],
+			"video": "BXQwoUXm7gQ",
+			"countries": [ "Belgique" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "19:30",
+					"timeEnd": "20:30"
+				}
+			],
+			"socials": [
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/helena_blly/"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@helena_blly"
+				},
+				{
+					"name": "YouTube",
+					"slug": "youtube",
+					"url": "https://www.youtube.com/channel/UCxHkwoDvHQJX8xGaSLG6aQg"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"name": "Luiza",
+			"slug": "luiza",
+			"musicTypes": [ "French Indie" ],
+			"poster": "4b78ef8d-5ee2-4002-8ba2-1eda96ef964e.jpg",
+			"description": [
+				"Née à Rennes d’une mère brésilienne et d’un père français, Luiza mêle avec naturel ses influences musicales et culturelles. ",
+				"Formée au conservatoire, elle puise son inspiration entre le Brésil, Paris et les scènes du monde. Sa musique, lumineuse et vibrante, célèbre la vie et la féminité. ",
+				"Après plusieurs collaborations remarquées et un passage à Taratata, elle affirme une identité artistique singulière et profondément vivante."
+			],
+			"video": "nd8RD3tjNQE",
+			"countries": [ "France", "Brésil" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "18:00",
+					"timeEnd": "19:00"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/31AiRN9YqCS2Wd7kZDa8d"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/LUIZAMUSICOFFICIAL/?locale=fr_FR"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/luizamusic__/?hl=fr"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/3K5sYlHk7RZimjYhUWej8D?si=r028MEjyRrqOgXx_3NB43w"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@luizamusic__?is_from_webapp=1&sender_device=pc"
+				}
+			]
+		},
+		{
+			"id": "7",
+			"name": "Magic System",
+			"slug": "magic-system",
+			"musicTypes": [ "Afropop" ],
+			"poster": "eac94f39-d86c-497c-b48b-67cc837242ce.jpg",
+			"description": [
+				"Depuis plus de 25 ans, Magic System fait danser le monde avec ses tubes fédérateurs et son énergie communicative.",
+				"Révélé par l’incontournable 1er Gaou, le groupe ivoirien enchaîne les succès et collaborations avec de nombreux artistes.",
+				"Véritables ambassadeurs de la Côte d’Ivoire, A’Salfo, Tino, Goudé et Manadja rassemblent les publics autour d’une musique festive et positive. Ils reviennent sur scène avec leurs plus grands hits et de nouveaux titres."
+			],
+			"video": "5Dwb0qJ-Di4",
+			"countries": [ "Cote d'Ivoire" ],
+			"artistProgramme": [
+				{
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "22:40",
+					"timeEnd": "00:00"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/31plNMBDDLwgTwGuNFExA"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/MagicSystemOfficiel/?locale=fr_FR"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/magicsystemofficiel/?hl=fr"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/6MvRVq0CtpQQlwnIiszV8F?si=7WZZanWJTVKX801NTC7Qzw"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@magicsystemofficiel"
+				},
+				{
+					"name": "X",
+					"slug": "x",
+					"url": "https://x.com/magicsystemoffi"
+				}
+			]
+		},
+		{
+			"id": "8",
+			"name": "HYL",
+			"slug": "hyl",
+			"musicTypes": [ "Pop", "Rap", "Electro" ],
+			"poster": "6d41785b-5c8a-4346-87a0-79f9fbc11bc7.jpg",
+			"description": [
+				"HYL se définit entre la pop et un rap, électro coloré. Des mots pour dessiner des mélodies dans la lignée d’Orelsan, Gaël Faye, ou l’énergie communicative de Thérapie TAXI, à mi-chemin entre l’insouciance et la prise de conscience.",
+				"Depuis septembre 2021, plus d’une centaine de salles et festivals s’ajoutent à sa route, des premières parties (Bigflo & Oli, Médine, Danakil…), des Prix (Rencontres d’Astaffort, Musicalarue, Prix Nougaro…), de la presses nationales (Libération, France Inter…) et un développement au Québec (RIDEAU, victoire du FIGG, booking Les Yeux Boussoles), le tout en indépendant depuis ses débuts.",
+				"En 2025, il prépare un 3ème projet, dont les textes et la production sont le reflet des années de recherche et du chemin parcouru. Un éclectisme solaire qui fait la signature d’HYL, aussi touchants qu’entrainants. Les singles se succèdent déjà, et amorcent ce nouvel EP qui sortira au début du printemps 2026."
+			],
+			"video": "p1BCqozvUv8",
+			"countries": [ "France" ],
+			"artistProgramme": [
+				{
+					"stage": "Maison de Quartier de Lapanouse",
+					"stageSlug": "maison-de-quartier-de-lapanouse",
+					"day": "2026-07-08",
+					"timeStart": "18:30",
+					"timeEnd": "19:30"
+				},
+				{
+					"stage": "Café Plùm – Lautrec",
+					"stageSlug": "cafe-plum-lautrec",
+					"day": "2026-07-09",
+					"timeStart": "20:00",
+					"timeEnd": "21:00"
+				}
+			],
+			"socials": [
+				{
+					"name": "Deezer",
+					"slug": "deezer",
+					"url": "https://link.deezer.com/s/32vgVdQJ7gEPyhVcC1LaT"
+				},
+				{
+					"name": "Facebook",
+					"slug": "facebook",
+					"url": "https://www.facebook.com/hylofficiel/"
+				},
+				{
+					"name": "Instagram",
+					"slug": "instagram",
+					"url": "https://www.instagram.com/hyl_officiel/"
+				},
+				{
+					"name": "Spotify",
+					"slug": "spotify",
+					"url": "https://open.spotify.com/intl-fr/artist/7MvePhiVRf4hsnYAf3uyQ2?si=IREgH_WcTvS64PGjevPwBA"
+				},
+				{
+					"name": "TikTok",
+					"slug": "tiktok",
+					"url": "https://www.tiktok.com/@hyl.officiel?is_from_webapp=1&sender_device=pc"
+				},
+				{
+					"name": "YouTube",
+					"slug": "youtube",
+					"url": "https://youtube.com/@hylofficiel?si=CxJ8l4rKSfBYNZtC"
+				}
+			]
+		}
+	],
+	"programme": [
+		{
+			"day": "2026-07-08",
+			"programmeArtists": [
+				{
+					"id": "1",
+					"artistId": "8",
+					"artistName": "HYL",
+					"artistSlug": "hyl",
+					"artistPoster": "6d41785b-5c8a-4346-87a0-79f9fbc11bc7.jpg",
+					"stage": "Maison de Quartier de Lapanouse",
+					"stageSlug": "maison-de-quartier-de-lapanouse",
+					"day": "2026-07-08",
+					"timeStart": "18:30",
+					"timeEnd": "19:30"
+				}
+			]
+		},
+		{
+			"day": "2026-07-09",
+			"programmeArtists": [
+				{
+					"id": "2",
+					"artistId": "8",
+					"artistName": "HYL",
+					"artistSlug": "hyl",
+					"artistPoster": "6d41785b-5c8a-4346-87a0-79f9fbc11bc7.jpg",
+					"stage": "Café Plùm – Lautrec",
+					"stageSlug": "cafe-plum-lautrec",
+					"day": "2026-07-09",
+					"timeStart": "20:00",
+					"timeEnd": "21:00"
+				}
+			]
+		},
+		{
+			"day": "2026-07-10",
+			"programmeArtists": [
+				{
+					"id": "3",
+					"artistId": "4",
+					"artistName": "Jean-Louis Aubert",
+					"artistSlug": "jean-louis-aubert",
+					"artistPoster": "ff15bdd5-bcb8-4e63-98f7-af44fdf7ec07.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-10",
+					"timeStart": "20:30",
+					"timeEnd": "22:00"
+				},
+				{
+					"id": "4",
+					"artistId": "3",
+					"artistName": "Ben Harper & The Innocent Criminals",
+					"artistSlug": "ben-harper-&-the-innocent-criminals",
+					"artistPoster": "b0e30ddb-35e5-4953-8a8f-c1b9bf56885c.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-10",
+					"timeStart": "22:30",
+					"timeEnd": "23:40"
+				}
+			]
+		},
+		{
+			"day": "2026-07-11",
+			"programmeArtists": [
+				{
+					"id": "5",
+					"artistId": "1",
+					"artistName": "Orelsan",
+					"artistSlug": "orelsan",
+					"artistPoster": "63ee109b-274b-40cb-b4de-d22b16e9f6df.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-11",
+					"timeStart": "22:00"
+				}
+			]
+		},
+		{
+			"day": "2026-07-12",
+			"programmeArtists": [
+				{
+					"id": "6",
+					"artistId": "6",
+					"artistName": "Luiza",
+					"artistSlug": "luiza",
+					"artistPoster": "4b78ef8d-5ee2-4002-8ba2-1eda96ef964e.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "18:00",
+					"timeEnd": "19:00"
+				},
+				{
+					"id": "7",
+					"artistId": "5",
+					"artistName": "Helena",
+					"artistSlug": "helena",
+					"artistPoster": "703f50ee-4c17-4e86-ac53-4d0d440607df.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "19:30",
+					"timeEnd": "20:30"
+				},
+				{
+					"id": "8",
+					"artistId": "2",
+					"artistName": "Gims",
+					"artistSlug": "gims",
+					"artistPoster": "cf9a21ac-3904-4a3b-ab8e-0cb124b59e7f.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "21:00",
+					"timeEnd": "22:10"
+				},
+				{
+					"id": "9",
+					"artistId": "7",
+					"artistName": "Magic System",
+					"artistSlug": "magic-system",
+					"artistPoster": "eac94f39-d86c-497c-b48b-67cc837242ce.jpg",
+					"stage": "Grande Scène – Pratgraussals",
+					"stageSlug": "pratgraussals",
+					"day": "2026-07-12",
+					"timeStart": "22:40",
+					"timeEnd": "00:00"
+				}
+			]
+		}
+	]
+}
