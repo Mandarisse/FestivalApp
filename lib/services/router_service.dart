@@ -1,6 +1,7 @@
 import 'package:go_router/go_router.dart';
 import 'package:pauseguitare/screens/home_screen.dart';
 import 'package:pauseguitare/screens/programmation_screen.dart';
+import 'package:pauseguitare/screens/user_screen.dart';
 
 class RouterService {
   GoRouter get() {
@@ -17,6 +18,12 @@ class RouterService {
           name: "programmation",
           pageBuilder: (context, state) =>
               NoTransitionPage(child: ProgrammationScreen()),
+        ),
+        GoRoute(
+          path: '/user',
+          name: 'user',
+          pageBuilder: (context, state) =>
+              NoTransitionPage(child: UserScreen()),
         ),
       ],
     );

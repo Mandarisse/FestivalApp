@@ -3,6 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:pauseguitare/theme/app_colors.dart';
+import 'package:go_router/go_router.dart';
 
 class Navbar extends StatelessWidget implements PreferredSizeWidget {
   // propriétés
@@ -30,7 +31,7 @@ class Navbar extends StatelessWidget implements PreferredSizeWidget {
           ),
           child: IconButton(
             onPressed: () {
-              inspect('clic');
+              context.go('/user');
             },
             icon: Icon(Icons.person, color: Colors.white),
           ),
